@@ -97,7 +97,10 @@ npm run dev
 
 ## Demo 📹
 
- <img align="center" alt="my dapp" src="certiapp.gif" width="250" height="150" /><br>
+<a href="https://youtu.be/-ejMrWSRrXs" target="_blank">
+  <img align="center" alt="my dapp" src="certiapp.gif" width="250" height="150" />
+</a><br>
+
     
 ## 📦 Planned Updates
 - MetaMask Compatability
