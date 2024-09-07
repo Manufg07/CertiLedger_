@@ -16,7 +16,7 @@ const Home = () => {
   
   return (
     <div className="flex flex-col items-center h-screen justify-center">
-      <h1 className="font-extrabold text-3xl mb-7">Certificate DApp</h1>
+      <h1 className="font-extrabold text-3xl mb-7">CertiLedger</h1>
       <div className="pb-4">
         <img src={Logo} width="200" height="200" />
       </div>
